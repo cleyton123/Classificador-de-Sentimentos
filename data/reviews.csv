@@ -1,1 +1,7 @@
-
+text,label
+"Eu amei esse produto, qualidade incrível!",positivo
+"Horrível, nunca mais compro isso",negativo
+"Entrega rápida e eficaz",positivo
+"Veio quebrado, muito ruim",negativo
+"Atendimento excelente!",positivo
+"Experiência péssima, frustrante",negativo
